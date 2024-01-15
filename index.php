@@ -562,7 +562,7 @@ function getPerfectPartner($surname1, $name1, $patronymic1, $array){
 
 
 
-getPerfectPartner('Иванова', 'Екатерина', 'Ивановна', $example_persons_array);
+getPerfectPartner('Иванова', 'Екатерина', 'Ивановна', $example_persons_array); //  Вводите необходимое вам ФИО
 
 
 
